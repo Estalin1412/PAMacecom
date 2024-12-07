@@ -1,7 +1,15 @@
 # ninja log v6
-6	884	7531609961971602	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
-886	1522	7531609970777318	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
-7	919	7531610324685871	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
-920	1578	7531610333813563	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
-40	2428	7546297186225961	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
-2431	3162	7546297210138609	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
+8	2033	7547982530519930	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
+2033	3040	7547982550772303	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
+5	2113	7547988068112234	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
+2113	3091	7547988089188323	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
+21	2466	7548782699898028	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
+2466	3572	7548782724345677	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
+5	2166	7548783505234314	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
+2167	3110	7548783526844559	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
+17	2687	7551377320821558	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
+2688	3689	7551377347540822	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
+48	4911	7552200120894349	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
+4912	6509	7552200169536017	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
+8	2320	7552903134191737	CMakeFiles/ProgramaLectorMemoria.dir/main.cpp.obj	a2933fac8f33be9
+2320	3337	7552903157315362	ProgramaLectorMemoria.exe	dfa1e5e9ae14229d
