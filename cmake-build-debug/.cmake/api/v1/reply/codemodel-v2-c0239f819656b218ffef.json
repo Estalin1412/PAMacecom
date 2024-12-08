@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Directory/Acecom/ProgramaLectorMemoria/cmake-build-debug",
-		"source" : "D:/Directory/Acecom/ProgramaLectorMemoria"
+		"build" : "D:/Jose/cmake-build-debug",
+		"source" : "D:/Jose"
 	},
 	"version" : 
 	{
